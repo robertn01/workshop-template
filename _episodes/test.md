@@ -2,3 +2,4 @@
 # Some markdown
 *click below*
 <a href="https://github.com" target="_blank">New Tab</a>
+[go](http://stackoverflow.com){:target="_blank"}
